@@ -21,19 +21,23 @@ An independent **Elden Ring Nightreign build planner** for the web and Android. 
 | Version | How to use it |
 | --- | --- |
 | Web | Visit the [GitHub Pages site](https://mkeays501.github.io/nightreign-build-lab/) in a browser. |
-| Android 1.0.1 | Install the signed APK supplied with the Android distribution. |
+| Android 1.0.2 | Download the [signed APK](Nightreign-Build-Lab-1.0.2.apk). |
 
 The web deployment and Android package are separate distributions and may have different update versions.
 
 ### Android installation
 
-1. Download `Nightreign-Build-Lab-1.0.1.apk` onto your Android device.
+1. Download `Nightreign-Build-Lab-1.0.2.apk` onto your Android device.
 2. Open the file from Downloads and follow Android’s installation prompts.
 3. Launch **Nightreign Build Lab** from your app drawer.
 
 Requires **Android 8.0 or newer** and a current Android System WebView. The planner, artwork, data and fonts are bundled for offline use.
 
 For an update, install the newer APK over the existing app using the same signing identity. Export important builds before uninstalling or changing devices.
+
+### Android 1.0.2: relic calculations
+
+Version 1.0.2 adds Raider’s conditional damage and stamina bonus, fixes double-counting of identical fixed and random non-stacking effects, and labels estimates that still need verification. Some in-game relic interactions remain unverified.
 
 ### Android 1.0.1: owned relic combinations
 
