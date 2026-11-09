@@ -67,7 +67,7 @@ Warnings are planning guidance, not proof that a particular combination can drop
 
 The website repository contains the ready-to-run `index.html`, web development sources in `source.zip`, and third-party notices.
 
-The **Android source project is a separate package** with this structure:
+Download the [Android source project](Nightreign-Android-Source.zip), which has this structure:
 
 ```text
 app/                  Native Android shell, resources and bundled planner
